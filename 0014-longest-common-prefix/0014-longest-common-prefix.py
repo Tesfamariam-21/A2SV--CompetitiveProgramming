@@ -6,6 +6,9 @@ class Solution:
     # if size is 0, return empty string 
         if size == 0:
             return ""
+
+        if size == 1:
+            return strs[0]
         
         s = 100000
         for i in range(size):
@@ -14,6 +17,7 @@ class Solution:
             
         if s == 0:
             return ""
+        
         for i in range(s):
             ch = strs[0][i]
             for letter in strs:
