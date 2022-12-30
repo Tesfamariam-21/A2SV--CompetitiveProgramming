@@ -9,7 +9,7 @@ if __name__ == "__main__":
     
     for i in range(numOfSubset):
         subset = set(map(int, input().split()))
-        if not setA.issuperset(subset) or len(subset) >= len(setA):
+        if not setA.issuperset(subset):
             strictSuperset = False
 
     print(strictSuperset)
