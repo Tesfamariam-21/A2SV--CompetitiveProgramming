@@ -1,10 +1,7 @@
 if __name__ == '__main__':
     N = int(input())
     li = []
-    
-    def printList():
-        print(li)
-    
+
     def remove(e):
         li.remove(e)
     
@@ -13,17 +10,6 @@ if __name__ == '__main__':
     
     def insertList(i, e):
         li.insert(i, e)
-    
-    def sortList():
-        li.sort()
-    
-    def rev():
-        li.sort(reverse= True)
-    
-    def popElement():
-        li.pop()
-    
-
     
     for i in range(N):
         prompt = input()
@@ -35,19 +21,10 @@ if __name__ == '__main__':
         elif prompt.split()[0] == "remove":
             remove(int(prompt.split()[1]))
         elif prompt.split()[0] == "sort":
-            sortList()
+            li.sort()
         elif prompt.split()[0] == "reverse":
-            rev()
+            li.reverse()
         elif prompt.split()[0] == "pop":
-            popElement()
+            li.pop()
         elif prompt.split()[0] == "print":
-            printList()
-        else:
-            print("incorrect input")
-    
-     
-  
-    
-        
-    
-        
+            print(li)
