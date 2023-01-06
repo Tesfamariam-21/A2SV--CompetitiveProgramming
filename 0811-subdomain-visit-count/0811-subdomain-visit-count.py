@@ -17,11 +17,8 @@ class Solution:
                     if j == split[1]:
                         rep += dict_[j]
                 dict_[split[1]] = rep + int(split[0])
-            
-        for key, value in dict_.items():
-            li.append(str(value) + " " + key)
         
-        return li
+        return ["%d %s"% (dict_[key], key) for key in dict_]
 
                 
 #         counter = Counter()
