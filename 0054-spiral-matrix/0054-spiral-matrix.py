@@ -4,10 +4,7 @@ class Solution:
         top = left = 0
         right = len(matrix[0]) 
         bottom = len(matrix) 
-        j = 0
-        
-        for i in matrix:
-            print(i)
+ 
         
         while top < bottom and left < right:
             for i in range(left, right):
@@ -31,6 +28,5 @@ class Solution:
             for i in range(bottom-1, top-1, -1):
                 ans.append(matrix[i][left])            
             left += 1
-            # print(ans)
         
         return ans
