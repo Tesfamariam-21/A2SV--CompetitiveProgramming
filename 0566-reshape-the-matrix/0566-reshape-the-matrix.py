@@ -17,7 +17,6 @@ class Solution:
         for i in range(r):
             for j in range(c):
                 res[i][j] = li[k]
-                # print(li[k], res[i][j)
                 k +=1
         
         return res
