@@ -27,6 +27,4 @@ class Solution:
         lessThan.next = greaterNode.next
         greaterThan.next = None
         
-        
-                
         return lessNode.next
