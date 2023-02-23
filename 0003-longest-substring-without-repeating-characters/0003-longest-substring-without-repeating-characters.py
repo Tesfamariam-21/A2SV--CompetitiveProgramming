@@ -14,7 +14,7 @@ class Solution:
             dict_[s[right]] = right
             max_ = max(max_, right - left + 1)
             right +=1
-        print(left, right)
+        
         return max_
         
         
