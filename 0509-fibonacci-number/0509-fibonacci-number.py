@@ -3,7 +3,7 @@ class Solution:
         if n < 2:
             return n
         
-        return Solution.fib(self, n-1) + Solution.fib(self,n-2)
+        return self.fib(n-1) + self.fib(n-2)
           
         
 #         or
