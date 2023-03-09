@@ -9,9 +9,7 @@ class Solution:
                 return
             
             for j in range(len(nums)):
-                if nums[j] in arr:
-                    continue
-                else:
+                if nums[j] not in arr:
                     backtrack(j, arr + [nums[j]])
 
         backtrack(-1, [])
