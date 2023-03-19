@@ -11,14 +11,9 @@ class Solution:
             mid = (high + low)//2
 
             if isBadVersion(mid) == False:
-                low = mid +1
+                low = mid + 1
             elif isBadVersion(mid) == True:
                 high = mid - 1
-                if not isBadVersion(high):
-                    return high + 1
-   
-            else:
-                bad = n
-                break
-
+                bad = mid
+        
         return bad
