@@ -14,7 +14,4 @@ class Solution:
                 if found:
                     return True
         
-        first = backtrack([], 0)
-        if first:
-            return True
-        return False
+        return backtrack([], 0)
