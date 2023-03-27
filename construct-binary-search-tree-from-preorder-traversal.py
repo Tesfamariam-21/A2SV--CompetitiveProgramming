@@ -11,8 +11,8 @@ class Solution:
             if index2 < index:
                 return None
 
-            if index2 == index:
-                return TreeNode(preorder[index2])
+            # if index2 == index:
+            #     return TreeNode(preorder[index2])
 
             
             node = TreeNode(preorder[index])
