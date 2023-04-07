@@ -1,6 +1,7 @@
 class Solution:
     def hasAlternatingBits(self, n: int) -> bool:
-        bit = -1
+        bit = n & (1<<0)
+        n >>=1
 
         while n > 0:
             if bit == n & ( 1<<0):
