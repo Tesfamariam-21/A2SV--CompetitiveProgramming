@@ -4,11 +4,11 @@ class Solution:
         s = set()
 
         for i in range(len(nums)):
-            j = 2
-            while j <= nums[i]:
-                while nums[i]%j == 0:
-                    s.add(j)
-                    nums[i] = nums[i] //j
-                j +=1
+            start = 2
+            while start <= nums[i]:
+                while nums[i]% start == 0:
+                    s.add(start)
+                    nums[i] = nums[i] //start
+                start +=1
 
         return len(s)
