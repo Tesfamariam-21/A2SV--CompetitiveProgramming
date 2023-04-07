@@ -6,7 +6,7 @@ class Solution:
             nonlocal ans
             if len(arr) == len(nums):
                 ans.append(arr)
-                return
+                # return
             
             for j in range(len(nums)):
                 if nums[j] not in arr:
