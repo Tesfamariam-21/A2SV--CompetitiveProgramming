@@ -9,7 +9,6 @@ class Employee:
 
 class Solution:
     def getImportance(self, employees: List['Employee'], id: int) -> int:
-        emp = 0
         importance = 0
         dict_ = {}
         
