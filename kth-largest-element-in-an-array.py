@@ -1,38 +1,46 @@
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
+        for i in range(len(nums)):
+            nums[i] *=-1
 
-        def partition(left, right):
-            if right - left <= 0:
-                if left == len(nums) - k:
-                    return nums[left]
-                return
+        heapq.heapify(nums)
 
-            pivot = right
-            leftmost = left
+        for _ in range(k):
+            ans = heapq.heappop(nums)
 
-            while left < right:
-                if nums[left] < nums[pivot]:
-                    left +=1
+        return -1*ans
+        # def partition(left, right):
+        #     if right - left <= 0:
+        #         if left == len(nums) - k:
+        #             return nums[left]
+        #         return
 
-                else:
-                    if nums[right] >= nums[pivot]:
-                        right -=1
-                    else:
-                        nums[left], nums[right] = nums[right], nums[left]
+        #     pivot = right
+        #     leftmost = left
+
+        #     while left < right:
+        #         if nums[left] < nums[pivot]:
+        #             left +=1
+
+        #         else:
+        #             if nums[right] >= nums[pivot]:
+        #                 right -=1
+        #             else:
+        #                 nums[left], nums[right] = nums[right], nums[left]
                 
 
-            nums[left], nums[pivot] = nums[pivot], nums[left]
+        #     nums[left], nums[pivot] = nums[pivot], nums[left]
 
-            if left == len(nums) - k:
-                return nums[left]
+        #     if left == len(nums) - k:
+        #         return nums[left]
 
             
-            l = partition(leftmost, left - 1)
-            r = partition(left + 1, pivot)
+        #     l = partition(leftmost, left - 1)
+        #     r = partition(left + 1, pivot)
 
-            if l != None:
-                return l
+        #     if l != None:
+        #         return l
 
-            return r
+        #     return r
 
-        return partition(0, len(nums) - 1)
+        # return partition(0, len(nums) - 1)
