@@ -17,7 +17,7 @@ class Solution:
 
         while heap:
             val, index, node = heappop(heap)
-            head.next =  ListNode(val)
+            head.next = node
             head = head.next
 
             if node.next:
