@@ -23,8 +23,9 @@ class Solution:
 
         
         for degree in prereq:
-            if prereq[degree] == 1 and degree not in visited:
+            if prereq[degree] == 1:
                 dfs(degree)
+                break
 
 
         return ans
