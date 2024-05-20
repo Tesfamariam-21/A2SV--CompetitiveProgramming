@@ -10,7 +10,7 @@
 <strong>Explanation:</strong> 342 + 465 = 807.
 </pre>
 
-<p><strong class="example">Example 2:</strong></p>
+<p><strong class="example">Example 2: </strong></p>
 
 <pre><strong>Input:</strong> l1 = [0], l2 = [0]
 <strong>Output:</strong> [0]
