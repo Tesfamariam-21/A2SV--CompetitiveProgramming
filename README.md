@@ -7,6 +7,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0088-merge-sorted-array) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,12 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
