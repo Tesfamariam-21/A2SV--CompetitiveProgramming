@@ -12,12 +12,14 @@ var createCounter = function(init) {
         return initial_val
     }
 
-    return {
-        increment: increment,
-        decrement: decrement,
-        reset: reset
+    return {  increment, decrement, reset
+        // increment: increment,
+        // decrement: decrement,
+        // reset: reset
     }  
 };
+
+
 
 /**
  * const counter = createCounter(5)
