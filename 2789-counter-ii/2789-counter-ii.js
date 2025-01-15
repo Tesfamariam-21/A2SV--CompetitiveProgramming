@@ -3,19 +3,22 @@
  * @return { increment: Function, decrement: Function, reset: Function }
  */
 var createCounter = function(init) {
-    i = init;
-    function increment(){
-        return ++init;
+    let initial_val = init
+
+    const increment = ()=> ++initial_val
+    const decrement = ()=> --initial_val
+    const reset = ()=> {
+        initial_val = init
+        return initial_val
     }
-    function decrement(){
-        return --init;
-    }
-    function reset(){
-        init = i;
-        return init;
-    }
-    return{increment, decrement, reset}
+
+    return {
+        increment: increment,
+        decrement: decrement,
+        reset: reset
+    }  
 };
+
 /**
  * const counter = createCounter(5)
  * counter.increment(); // 6
