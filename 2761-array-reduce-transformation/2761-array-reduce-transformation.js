@@ -5,9 +5,14 @@
  * @return {number}
  */
 var reduce = function(nums, fn, init) {
-  let val = init;
-  for (let i = 0; i < nums.length; i++) {
-    val = fn(val, nums[i]);
-  }
-  return val;
+//   return nums.reduce(fn, init)
+
+    let res = init
+    // for (const i of nums){
+    //     res = fn(res, i)
+    // }
+
+    nums.forEach((i)=> res = fn(res, i))
+
+    return res
 };
