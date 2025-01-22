@@ -3,11 +3,17 @@
  * @return {Function}
  */
 function memoize(fn) {
-    const memo = {}
+        const memo = new Map()
 
     return function(...args) {
         // key = JSON.stringify(args)
+        // when using object {} it automatically changes args to string 
+        //but if you used map since it supports different data types as a key value we must change it
+        // to string in this case
+
         key = args
+
+
 
 
         if (key in memo){
