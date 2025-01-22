@@ -6,7 +6,9 @@ function memoize(fn) {
     const memo = {}
 
     return function(...args) {
-        key = JSON.stringify(args)
+        // key = JSON.stringify(args)
+        key = args
+
 
         if (key in memo){
             return memo[key]
