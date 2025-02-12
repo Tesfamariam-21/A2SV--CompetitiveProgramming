@@ -10,6 +10,7 @@ Competitive Programming data structure and algorithm
 | [0283-move-zeroes](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0283-move-zeroes) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2350-find-closest-number-to-zero](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2551-apply-operations-to-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -44,5 +45,18 @@ Competitive Programming data structure and algorithm
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2551-apply-operations-to-an-array) |
+## Math
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
