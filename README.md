@@ -13,6 +13,7 @@ Competitive Programming data structure and algorithm
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2350-find-closest-number-to-zero](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2350-find-closest-number-to-zero) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2551-apply-operations-to-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2792-neighboring-bitwise-xor) |
@@ -64,4 +65,5 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0777-toeplitz-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0777-toeplitz-matrix) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2454-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
