@@ -12,6 +12,7 @@ Competitive Programming data structure and algorithm
 | [0777-toeplitz-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0777-toeplitz-matrix) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2350-find-closest-number-to-zero](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2350-find-closest-number-to-zero) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2454-largest-local-values-in-a-matrix) |
