@@ -4,6 +4,7 @@ class Solution:
         for i in range(9):
             set_ = set()
             set_2 = set()
+            set_3 = set()
             for j in range(9):
                 if board[i][j] != ".":
                     if board[i][j] in set_:
@@ -15,19 +16,18 @@ class Solution:
                     if board[j][i] in set_2:
                         return False
                     set_2.add(board[j][i])
+
+                row_index = (i // 3) * 3 + (j // 3)
+                col_index = (i % 3) * 3 + (j % 3)
+
+                if board[row_index][col_index] != ".":
+                    if board[row_index][col_index] in set_3:
+                        return False
+                    set_3.add(board[row_index][col_index])
                     
-        
-        for k in range(0, 9, 3):
-            for l in range(0, 9, 3):
-                set_ = set()
-                for i in range(k, k + 3):
-                    for j in range(l, l + 3):
-                        if board[i][j] != ".":
-                            if board[i][j] in set_:
-                                return False
-                        set_.add(board[i][j]) 
                 
         return True
+        
 
 
         # ans = []
