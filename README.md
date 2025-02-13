@@ -6,6 +6,7 @@ Competitive Programming data structure and algorithm
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0566-reshape-the-matrix) |
@@ -33,6 +34,7 @@ Competitive Programming data structure and algorithm
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0036-valid-sudoku) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -67,6 +69,7 @@ Competitive Programming data structure and algorithm
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0036-valid-sudoku) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0777-toeplitz-matrix) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2454-largest-local-values-in-a-matrix) |
