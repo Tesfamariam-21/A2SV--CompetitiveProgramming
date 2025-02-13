@@ -3,20 +3,18 @@ class Solution:
     
         for i in range(9):
             set_ = set()
+            set_2 = set()
             for j in range(9):
                 if board[i][j] != ".":
                     if board[i][j] in set_:
                         return False
+                    
                     set_.add(board[i][j])
-                         
-
-        for i in range(9):
-            set_ = set()
-            for j in range(9):
+                
                 if board[j][i] != ".":
-                    if board[j][i] in set_:
+                    if board[j][i] in set_2:
                         return False
-                    set_.add(board[j][i])
+                    set_2.add(board[j][i])
                     
         
         for k in range(0, 9, 3):
