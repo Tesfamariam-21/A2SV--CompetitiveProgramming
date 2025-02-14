@@ -11,6 +11,7 @@ Competitive Programming data structure and algorithm
 | [0283-move-zeroes](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0777-toeplitz-matrix) |
+| [0978-valid-mountain-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
