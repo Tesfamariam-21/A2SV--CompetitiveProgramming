@@ -1,15 +1,25 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        ptr1, ptr2 = 0, 0
+        read =  write = 0 
+
+        while read < len(nums):
+            if nums[read] != 0:
+                nums[read], nums[write] = nums[write],  nums[read]
+                write +=1
+            
+            read +=1
+
+        return nums
+        # ptr1, ptr2 = 0, 0
         
-        while ptr2 < len(nums):
-            if nums[ptr1] != 0:
-                ptr1 +=1 
-                ptr2 +=1
-            elif nums[ptr2] == 0:
-                ptr2 +=1
-            else:
-                nums[ptr1], nums[ptr2] = nums[ptr2], nums[ptr1]
+        # while ptr2 < len(nums):
+        #     if nums[ptr1] != 0:
+        #         ptr1 +=1 
+        #         ptr2 +=1
+        #     elif nums[ptr2] == 0:
+        #         ptr2 +=1
+        #     else:
+        #         nums[ptr1], nums[ptr2] = nums[ptr2], nums[ptr1]
         
         # ptr = 0
 
