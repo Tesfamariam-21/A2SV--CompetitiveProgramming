@@ -28,6 +28,7 @@ Competitive Programming data structure and algorithm
 | [0088-merge-sorted-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
@@ -38,6 +39,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0036-valid-sudoku) |
+| [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -50,6 +52,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
 ## Simulation
@@ -87,4 +90,8 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
