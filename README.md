@@ -58,11 +58,13 @@ Competitive Programming data structure and algorithm
 | [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
+| [2470-removing-stars-from-a-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0566-reshape-the-matrix) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2470-removing-stars-from-a-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2551-apply-operations-to-an-array) |
 ## Math
 |  |
@@ -106,6 +108,7 @@ Competitive Programming data structure and algorithm
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
+| [2470-removing-stars-from-a-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
