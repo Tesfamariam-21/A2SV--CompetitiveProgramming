@@ -1,14 +1,23 @@
 class Solution:
     def minOperations(self, logs: List[str]) -> int:
-        stack = []
+        depth = 0
 
         for log in logs:
             if log == "../":
-                if stack:
-                    stack.pop()
+                depth = max(0, depth -1)
             elif log != "./":
-                stack.append(log)
+                depth +=1
 
-        return len(stack)
+        return depth
+        # stack = []
+
+        # for log in logs:
+        #     if log == "../":
+        #         if stack:
+        #             stack.pop()
+        #     elif log != "./":
+        #         stack.append(log)
+
+        # return len(stack)
             
         
