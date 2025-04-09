@@ -13,6 +13,7 @@ Competitive Programming data structure and algorithm
 | [0566-reshape-the-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0566-reshape-the-matrix) |
 | [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0777-toeplitz-matrix) |
+| [0860-design-circular-queue](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0860-design-circular-queue) |
 | [0978-valid-mountain-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
@@ -83,6 +84,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
@@ -120,4 +122,9 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
+| [0860-design-circular-queue](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0860-design-circular-queue) |
+## Linked List
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
