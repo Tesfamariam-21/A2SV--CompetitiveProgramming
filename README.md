@@ -10,6 +10,7 @@ Competitive Programming data structure and algorithm
 | [0088-merge-sorted-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0566-reshape-the-matrix) |
+| [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0777-toeplitz-matrix) |
 | [0978-valid-mountain-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0978-valid-mountain-array) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
@@ -99,4 +100,9 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0020-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
