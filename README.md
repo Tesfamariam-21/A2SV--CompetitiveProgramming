@@ -46,6 +46,7 @@ Competitive Programming data structure and algorithm
 | [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -86,6 +87,7 @@ Competitive Programming data structure and algorithm
 | [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0860-design-circular-queue) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Matrix
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Sliding Window
 |  |
 | ------- |
@@ -123,8 +126,13 @@ Competitive Programming data structure and algorithm
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0860-design-circular-queue) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Linked List
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0860-design-circular-queue) |
+## Data Stream
+|  |
+| ------- |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->
