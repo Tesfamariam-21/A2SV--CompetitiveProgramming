@@ -51,6 +51,7 @@ Competitive Programming data structure and algorithm
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
@@ -94,4 +95,8 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
