@@ -78,6 +78,7 @@ Competitive Programming data structure and algorithm
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
@@ -103,9 +104,14 @@ Competitive Programming data structure and algorithm
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
