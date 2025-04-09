@@ -18,6 +18,7 @@ Competitive Programming data structure and algorithm
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1720-crawler-log-folder](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2350-find-closest-number-to-zero](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2350-find-closest-number-to-zero) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -58,6 +59,7 @@ Competitive Programming data structure and algorithm
 | [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
+| [1720-crawler-log-folder](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -108,6 +110,7 @@ Competitive Programming data structure and algorithm
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
 | [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
+| [1720-crawler-log-folder](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1720-crawler-log-folder) |
 | [2470-removing-stars-from-a-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
