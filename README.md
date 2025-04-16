@@ -58,6 +58,7 @@ Competitive Programming data structure and algorithm
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0344-reverse-string) |
+| [0402-remove-k-digits](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [0886-score-of-parentheses](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0886-score-of-parentheses) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
@@ -115,6 +116,7 @@ Competitive Programming data structure and algorithm
 | [0020-valid-parentheses](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
+| [0402-remove-k-digits](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
 | [0886-score-of-parentheses](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0886-score-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1720-crawler-log-folder) |
@@ -122,6 +124,7 @@ Competitive Programming data structure and algorithm
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -137,4 +140,8 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
