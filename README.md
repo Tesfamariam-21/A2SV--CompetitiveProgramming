@@ -10,6 +10,7 @@ Competitive Programming data structure and algorithm
 | [0088-merge-sorted-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0566-reshape-the-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0566-reshape-the-matrix) |
 | [0739-daily-temperatures](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0739-daily-temperatures) |
 | [0777-toeplitz-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0777-toeplitz-matrix) |
@@ -43,6 +44,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0036-valid-sudoku) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -76,6 +78,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0380-insert-delete-getrandom-o1) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2491-smallest-even-multiple](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2556-convert-the-temperature) |
@@ -130,6 +133,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0225-implement-stack-using-queues) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0380-insert-delete-getrandom-o1) |
 | [0860-design-circular-queue](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0860-design-circular-queue) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Linked List
@@ -144,4 +148,8 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0402-remove-k-digits) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
