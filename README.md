@@ -77,6 +77,7 @@ Competitive Programming data structure and algorithm
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0380-insert-delete-getrandom-o1) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -85,6 +86,7 @@ Competitive Programming data structure and algorithm
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0050-powx-n) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
