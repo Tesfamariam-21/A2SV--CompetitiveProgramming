@@ -26,6 +26,7 @@ Competitive Programming data structure and algorithm
 | [2454-largest-local-values-in-a-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2551-apply-operations-to-an-array) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2792-neighboring-bitwise-xor](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2792-neighboring-bitwise-xor) |
 ## Two Pointers
 |  |
