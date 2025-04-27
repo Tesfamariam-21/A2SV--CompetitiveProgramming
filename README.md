@@ -29,6 +29,7 @@ Competitive Programming data structure and algorithm
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2779-number-of-adjacent-elements-with-the-same-color](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2779-number-of-adjacent-elements-with-the-same-color) |
 | [2792-neighboring-bitwise-xor](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2792-neighboring-bitwise-xor) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Competitive Programming data structure and algorithm
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -155,8 +157,21 @@ Competitive Programming data structure and algorithm
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0380-insert-delete-getrandom-o1) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/3751-maximum-frequency-after-subarray-operation) |
+## Enumeration
+|  |
+| ------- |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/3751-maximum-frequency-after-subarray-operation) |
+## Prefix Sum
+|  |
+| ------- |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/3751-maximum-frequency-after-subarray-operation) |
 <!---LeetCode Topics End-->
