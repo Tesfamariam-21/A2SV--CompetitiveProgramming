@@ -22,6 +22,7 @@ Competitive Programming data structure and algorithm
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1720-crawler-log-folder](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2350-find-closest-number-to-zero](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2350-find-closest-number-to-zero) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2551-apply-operations-to-an-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2551-apply-operations-to-an-array) |
@@ -49,6 +50,7 @@ Competitive Programming data structure and algorithm
 | [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -111,6 +113,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Sliding Window
 |  |
@@ -151,6 +154,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0402-remove-k-digits) |
+| [2289-minimum-operations-to-make-the-array-alternating](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 ## Randomized
 |  |
 | ------- |
