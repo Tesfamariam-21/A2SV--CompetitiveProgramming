@@ -69,6 +69,7 @@ Competitive Programming data structure and algorithm
 | [0344-reverse-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0402-remove-k-digits) |
 | [0567-permutation-in-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0812-rotate-string) |
 | [0886-score-of-parentheses](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0886-score-of-parentheses) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0981-delete-columns-to-make-sorted) |
 | [1044-find-common-characters](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/1044-find-common-characters) |
@@ -177,4 +178,8 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/3751-maximum-frequency-after-subarray-operation) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
