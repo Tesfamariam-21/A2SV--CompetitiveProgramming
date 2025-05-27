@@ -8,6 +8,7 @@ Competitive Programming data structure and algorithm
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0283-move-zeroes](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0380-insert-delete-getrandom-o1) |
@@ -169,6 +170,7 @@ Competitive Programming data structure and algorithm
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Enumeration
 |  |
