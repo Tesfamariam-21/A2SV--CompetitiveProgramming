@@ -7,6 +7,7 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -184,4 +185,8 @@ Competitive Programming data structure and algorithm
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0812-rotate-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Tesfamariam-21/A2SV--CompetitiveProgramming/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
